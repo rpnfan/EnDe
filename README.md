@@ -3,10 +3,16 @@ A highly ergonomic English/ German keyboard layout for standard ISO keyboards or
 
 This layout is an alternative to [anymak:END](https://github.com/rpnfan/Anymak). It is based on the same proven principles. The difference to anymak:END are as follows:
 
-* The default shift key position from a standard keyboard is used and not changed.This allows to use more keys and has two benefits and two disadvantages
+The default shift key position from a standard keyboard is used and not changed.This allows to use more keys and has two benefits and two disadvantages
+
+**Advantages over anymak:END**
+
 * Due that change some analyzer statistics numbers, such as same-finger-bigrams have been improved.
 * The layout includes all German diacritics on the base layer, instead of requiring to access them on a separate layer.
-* The shift key is still in the not optimal to reach position. anymak:END in contrast does not use the ISO-shift key position at all and avoids this uncomfortable position. You can however use one-shot shift with EnDe as well.
+
+**Disadvantages over anymak:END**
+
+* The shift key is left in the default position, which is not easy to reach, but requires an unergonomic stretch of the pinky — or moving the floating hand. In contrast anymak:END does not use the ISO-shift key position at all and avoids this uncomfortable position. You can however use one-shot shift with EnDe as well. Note that EnDe requires an ISO-keyboard and cannot be adapted in a meaningful way to an ANSI keyboard. But if you mainly use ANSI-keyboards you likely will have English as your main language and anymak:END is the suggested layout in that case.
 * anymak:END has a one-shot layer key available on the left and right hand. For EnDe the right layer key is used for the character 'ß', so it does not allow to place the one-shot layer key there any longer. Swiss people could recover that position although :-).
 
 If you prefer anymak:END or EnDe is a matter of preference. Both layouts will feel great, with somewhat different strong sides and weaker sides. But mostly the layouts are very similar (see details below).
