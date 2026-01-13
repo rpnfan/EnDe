@@ -27,7 +27,7 @@ The screenshots are taken from the analyzer from Cyanophage and give a first imp
 
 The EnDe layout scores very well in regards to statistics. But note that the analyzers do not fully describe the typing experience. The suggested layout could slightly be tweaked to get a tiny bet better SFBs (same-finger-bigrams) by swapping m-w, but I deliberately have chosen the current position, because I find it slightly easier to type that way. You can swap those two characters if you prefer.
 
-In comparison to Graphite I think one of the biggest advantages is the higher amount of inward rolls, while awkward finger motions you want to avoid (sciccors, directs and SFBs) are roughly in the same range for both layouts.
+In comparison to Graphite I think one of the biggest advantages is the higher amount of inward rolls (27.7 % vs 21.7 %), while awkward finger motions you want to avoid (sciccors, directs and SFBs) are roughly in the same range for both layouts.
 
 ### EnDe - English
 https://cyanophage.github.io/playground.html?layout=q.ouyvdclfjhaei%2Cgtrns%5Ck%2F-%3Bxbpmwz%27%5E&mode=ergo&lan=english&thumb=l
@@ -37,6 +37,11 @@ https://cyanophage.github.io/playground.html?layout=q.ouyvdclfjhaei%2Cgtrns%5Ck%
 https://cyanophage.github.io/playground.html?layout=bldwz%27fouj%3Bnrtsgyhaei%2Cqxmcvkp.-%2F%5C%5E&mode=ergo&lan=english&thumb=l
 <img width="1813" height="1383" alt="image" src="https://github.com/user-attachments/assets/4d84476d-6ef2-40b9-8c37-d3a7267e9643" />
 
+### anymak:END - English
+https://cyanophage.github.io/playground.html?layout=qkouyvdclfjhaei%2Cgtrns%3B%3Dz%27.xbpmw%2F%5C-&mode=ergo&lan=english&thumb=l
+<img width="1813" height="1383" alt="image" src="https://github.com/user-attachments/assets/35b9a9dc-a741-4226-a35c-7d02c9e78f00" />
+
+
 ### EnDe - German
 https://cyanophage.github.io/playground.html?layout=q.ouyvdclfjhaei%2Cgtrns%C3%9Fk%C3%A4%C3%BC%C3%B6xbpmwz%27%5E&mode=ergo&lan=german&thumb=l
 <img width="1813" height="1383" alt="image" src="https://github.com/user-attachments/assets/be89f7da-b8c8-4141-b1ae-ee61ecc60f01" />
@@ -45,19 +50,26 @@ https://cyanophage.github.io/playground.html?layout=q.ouyvdclfjhaei%2Cgtrns%C3%9
 https://cyanophage.github.io/playground.html?layout=bldwz%27fouj%C3%B6nrtsgyhaei%2Cqxmcvkp.%C3%BC%C3%A4%C3%9F%5E&mode=ergo&lan=german&thumb=l
 <img width="1813" height="1383" alt="image" src="https://github.com/user-attachments/assets/4caa7eec-85a6-4bb2-aadf-e00a74fbd6a0" />
 
-As a bonus here the stats for some other languages, where you can see that EnDe works also great for Dutch or Spanish for example.
+### anymak:END - German
+Note that Cyanophage's analyzer does not allow to exactly display how anymak:END is setup (with one-shot shift and layers keys and the diacritics on the extra layer). The below screenshot is therefore just an approximation, where the umlauts are placed on the base-layer. Because of the low frequency of the umlauts the statistic values will not differ too much from the real layout, but they would be a little bit better.
+https://cyanophage.github.io/playground.html?layout=qkouyvdclfjhaei%2Cgtrns%C3%9F%C3%B6z%27.xbpmw%C3%A4%3D%C3%BC&mode=ergo&lan=german&thumb=l
+<img width="1813" height="1383" alt="image" src="https://github.com/user-attachments/assets/a8b5706a-3500-4448-b17a-2f44612bb031" />
 
-### EnDe - Dutch
+
+As a bonus here the stats for some other languages, where you can see that a slightly adopted EnDe-layout works also great for Dutch, French or Spanish for example.
+
+### EnNl - Dutch
 https://cyanophage.github.io/playground.html?layout=q.ouyvdclfjhaei%2Cgtrns%5Ck%2F-%3Bxbpmwz%27%5E&mode=ergo&lan=dutch&thumb=l
 <img width="1813" height="1383" alt="image" src="https://github.com/user-attachments/assets/24ed8ef5-73a6-417e-8ea9-d98fae10e46e" />
 
-### EnDe - Spanish
+### EnFr - French
+https://cyanophage.github.io/playground.html?layout=q.ouyvdclfjhaei%2Cgtrns%C3%A7k%C3%A9%C3%A8%C3%A0xbpmwz%27%5E&mode=ergo&lan=french&thumb=l
+<img width="1813" height="1383" alt="image" src="https://github.com/user-attachments/assets/6cca8dbb-6e9d-435f-8587-461430d5c37c" />
+
+### EnSpa - Spanish
 https://cyanophage.github.io/playground.html?layout=q.ouyvdclfjhaei%2Cgtrns%5Ck%2F-%C3%B1xbpmwz%27%5E&mode=ergo&lan=spanish&thumb=l
 <img width="1813" height="1383" alt="image" src="https://github.com/user-attachments/assets/f9616de6-abf0-4fbf-9f0a-049add519d8b" />
 
-### EnDe - French
-https://cyanophage.github.io/playground.html?layout=q.ouyvdclfjhaei%2Cgtrns%C3%A7k%C3%A9%C3%A8%C3%A0xbpmwz%27%5E&mode=ergo&lan=french&thumb=l
-<img width="1813" height="1383" alt="image" src="https://github.com/user-attachments/assets/6cca8dbb-6e9d-435f-8587-461430d5c37c" />
 
 
 
