@@ -6,8 +6,8 @@ This layout is an alternative to [anymak:END](https://github.com/rpnfan/Anymak).
 * The default shift key position from a standard keyboard is used and not changed.This allows to use more keys and has two benefits and two disadvantages
 * Due that change some analyzer statistics numbers, such as same-finger-bigrams have been improved.
 * The layout includes all German diacritics on the base layer, instead of requiring to access them on a separate layer.
-* The shift key is still in the not optimal to reach position. anymak:END in contrast does not use the ISO-shift key position at all and avoids this uncomfortable position.
-* anymak:END has a one-shot layer key available on the right hand. That position is taken here for a character (ß), so does not allow to place the one-shot layer key there any longer.
+* The shift key is still in the not optimal to reach position. anymak:END in contrast does not use the ISO-shift key position at all and avoids this uncomfortable position. You can however use one-shot shift with EnDe as well.
+* anymak:END has a one-shot layer key available on the left and right hand. For EnDe the right layer key is used for the character 'ß', so it does not allow to place the one-shot layer key there any longer. Swiss people could recover that position although :-).
 
 If you prefer anymak:END or EnDe is a matter of preference. Both layouts will feel great, with somewhat different strong sides and weaker sides. But mostly the layouts are very similar (see details below).
 
