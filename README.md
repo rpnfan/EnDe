@@ -13,7 +13,7 @@ The default shift key position from a standard keyboard is used and not changed.
 **Disadvantages over anymak:END**
 
 * The shift key is left in the default position, which is not easy to reach, but requires an unergonomic stretch of the pinky — or moving the floating hand. In contrast anymak:END does not use the ISO-shift key position at all and avoids this uncomfortable position. You can however use one-shot shift with EnDe as well. Note that EnDe requires an ISO-keyboard and cannot be adapted in a meaningful way to an ANSI keyboard. But if you mainly use ANSI-keyboards you likely will have English as your main language and anymak:END is the suggested layout in that case.
-* anymak:END has a one-shot layer key available on the left and right hand. For EnDe the right layer key is used for the character 'ß', so it does not allow to place the one-shot layer key there any longer. Swiss people could recover that position although :-).
+* anymak:END has a one-shot layer key available on the left and right hand. For EnDe the right layer key is used for the character 'ß', so it does not allow to place the one-shot layer key there any longer. Swiss people could recover that position although :-). Another option when using an ISO keyboard is to put the less frequent used character 'ß' on the B-key position from QWERTY, freeing up the key again to be used as a one-shot layer switch.
 
 If you prefer anymak:END or EnDe is a matter of preference. Both layouts will feel great, with somewhat different strong sides and weaker sides. But mostly the layouts are very similar (see details below).
 
@@ -43,6 +43,10 @@ One of the most important characterists for a layout to not cause discomfort are
 But EnDe has two advantages over many other layouts. For a high-alternation layout it has still a relatively high amount of inward-rolls. This is something you can likely feel and enjoy during your typing. For English Graphite has 21.7 % inward rolls. That is comparable to many other modern layouts not using a thumb-character key. EnDe in contrast has 27.7 % inward-rolls. That is on the high side for that class of layouts for a standard keyboard.
 
 The second unique and rare characteristic for a keyboard layout is that EnDe is not only optimized for English, but has about the same performance — means comfortable typing feel — for several European languages.
+
+**Try out and trust your feelings**
+
+Using keyboard layout analyzers to aid in the development or first judgement of a layout is very useful and highly recommended. But be aware that after you have chosen two or three candidates it is best to try out the layouts with a few handfull words. The analyzers will not give you the full picture alone. Using a [website to try out different layouts](https://altalpha.timvink.nl/try-layout.html) is very valuable and will help you to find the layout which fits best to your use case, hand size and keyboard type.
 
 ### EnDe - English
 https://cyanophage.github.io/playground.html?layout=q.ouyvdclfjhaei%2Cgtrns%5Ck%2F-%3Bxbpmwz%27%5E&mode=ergo&lan=english&thumb=l
