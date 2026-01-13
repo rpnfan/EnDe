@@ -84,8 +84,9 @@ https://cyanophage.github.io/playground.html?layout=q.ouyvdclfjhaei%2Cgtrns%C3%A
 <img width="1813" height="1383" alt="image" src="https://github.com/user-attachments/assets/6cca8dbb-6e9d-435f-8587-461430d5c37c" />
 
 ### EnSpa - Spanish
-https://cyanophage.github.io/playground.html?layout=q.ouyvdclfjhaei%2Cgtrns%5Ck%2F-%C3%B1xbpmwz%27%5E&mode=ergo&lan=spanish&thumb=l
-<img width="1813" height="1383" alt="image" src="https://github.com/user-attachments/assets/f9616de6-abf0-4fbf-9f0a-049add519d8b" />
+https://cyanophage.github.io/playground.html?layout=q.ouyvdclfjhaei%2Cgtrns%2Fk-%5C%C3%B1xbpmwz%27%5E&mode=ergo&lan=spanish&thumb=l
+<img width="1813" height="1383" alt="image" src="https://github.com/user-attachments/assets/6a034304-2c05-4868-aa8e-e3d3f55ef8e1" />
+
 
 
 
