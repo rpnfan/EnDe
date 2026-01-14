@@ -8,14 +8,14 @@ The default shift key position from a standard keyboard is used and not changed.
 **Advantages over anymak:END**
 
 * Due that change some analyzer statistics numbers, such as same-finger-bigrams have been improved.
-* The layout includes all German diacritics on the base layer, instead of requiring to access them on a separate layer.
+* The layout includes all German diacritics on the base layer, instead of requiring to access them on a separate layer. That is the much more important difference I think.
 
 **Disadvantages over anymak:END**
 
-* The shift key is left in the default position, which is not easy to reach, but requires an unergonomic stretch of the pinky — or moving the floating hand. In contrast anymak:END does not use the ISO-shift key position at all and avoids this uncomfortable position. You can however use one-shot shift with EnDeu as well. Note that EnDeu requires an ISO-keyboard and cannot be adapted in a meaningful way to an ANSI keyboard. But if you mainly use ANSI-keyboards you likely will have English as your main language and anymak:END is the suggested layout in that case.
-* anymak:END has a one-shot layer key available on the left and right hand. For EnDeu the right layer key is used for the character 'ß', so it does not allow to place the one-shot layer key there any longer. Swiss people could recover that position although :-). Another option when using an ISO keyboard is to put the less frequent used character 'ß' on the B-key position from QWERTY, freeing up the key again to be used as a one-shot layer switch.
+* The shift key is left in the default position, which is not easy to reach, but requires an unergonomic stretch of the pinky — or moving the floating hand. In contrast anymak:END does not use the ISO-shift key positions at all and avoids this uncomfortable position. You can however use one-shot shift with EnDeu as well. Note that EnDeu requires an ISO-keyboard and cannot be adapted in a meaningful way to an ANSI keyboard. But if you mainly use ANSI-keyboards you likely will have English as your main language and anymak:END is the suggested layout in that case.
+* anymak:END has a one-shot layer key available on the left and right hand. For EnDeu the right layer key is used for the character 'ß', so it does not allow to place the one-shot layer key there any longer. Swiss people could recover that position although :-). Another option when using an ISO keyboard is to put the less frequent used character 'ß' on the B-key position from QWERTY or the #-key position in QWERTZ, freeing up the key again to be used as a one-shot layer switch.
 
-If you prefer anymak:END or EnDeu is a matter of preference. Both layouts will feel great, with somewhat different strong sides and weaker sides. But mostly the layouts are very similar (see details below). EnDeu can (and should) be perfectly complemented by realizing extra symbol and navigation and shortcut layers. See the [Spacemak](https://github.com/rpnfan/Spacemak) ideas.
+If you prefer anymak:END or EnDeu is a matter of preference. Both layouts will feel great, with somewhat different strong sides and weaker sides. But mostly the layouts are very similar (see details below). The real world differenc is the placement of the Shift keys and the umlauts. EnDeu can (and should) be perfectly complemented by realizing extra symbol and navigation and shortcut layers. See the [Spacemak](https://github.com/rpnfan/Spacemak) ideas.
 
 
 ## Layout Overview
