@@ -50,8 +50,8 @@ The second unique and rare characteristic for a keyboard layout is that EnDeu is
 Using keyboard layout analyzers to aid in the development or first judgement of a layout is very useful and highly recommended. But be aware that after you have chosen two or three candidates it is best to try out the layouts with a few handfull words. The analyzers will not give you the full picture alone. Using a [website to try out different layouts](https://altalpha.timvink.nl/try-layout.html) is very valuable and will help you to find the layout which fits best to your use case, hand size and keyboard type.
 
 ### EnDeu - English
-https://cyanophage.github.io/playground.html?layout=q.ouyvdclfjhaei%2Cgtrns%5Ck%2F-%3Bxbpmwz%27%5E&mode=ergo&lan=english&thumb=l
-<img width="1813" height="1383" alt="image" src="https://github.com/user-attachments/assets/b64ce076-bb5d-41a5-a9f7-526ba630d7ea" />
+https://cyanophage.github.io/playground.html?layout=q.ouyvdclf%5Chaei%2Cgtrnsjk%2F-%3Bxbpmwz%27%5E&mode=ergo&lan=english&thumb=l
+<img width="1516" height="1160" alt="image" src="https://github.com/user-attachments/assets/8b206ea2-980c-43b4-a1f8-1b9ea1b88baa" />
 
 ### Graphite - English
 https://cyanophage.github.io/playground.html?layout=bldwz%27fouj%3Bnrtsgyhaei%2Cqxmcvkp.-%2F%5C%5E&mode=ergo&lan=english&thumb=l
@@ -63,8 +63,8 @@ https://cyanophage.github.io/playground.html?layout=qkouyvdclfjhaei%2Cgtrns%3B%3
 
 
 ### EnDeu - German
-https://cyanophage.github.io/playground.html?layout=q.ouyvdclfjhaei%2Cgtrns%C3%9Fk%C3%A4%C3%BC%C3%B6xbpmwz%27%5E&mode=ergo&lan=german&thumb=l
-<img width="1813" height="1383" alt="image" src="https://github.com/user-attachments/assets/be89f7da-b8c8-4141-b1ae-ee61ecc60f01" />
+https://cyanophage.github.io/playground.html?layout=q.ouyvdclf%C3%9Fhaei%2Cgtrnsjk%C3%A4%C3%B6%C3%BCxbpmwz%27%5E&mode=ergo&lan=german&thumb=l
+<img width="1494" height="1152" alt="image" src="https://github.com/user-attachments/assets/f8ca55b4-c846-47ed-bbba-a9ab38da8955" />
 
 ### Graphite - German
 Diacritics are added here for comparison to evaluate German. The original Graphite does not offer diacritics, but the statistics are not changed that much by the umlauts -- regardless if the umlaut placement has been optimized (not the case here). Still for real-world typing the umlauts are relevant to place wisely, because regardless of the low frequency you will get quickly annoyed when they are in hard to reach places and do not fit into the typing flow. 
