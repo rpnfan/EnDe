@@ -20,10 +20,11 @@ If you prefer anymak:END or EnDeu is a matter of preference. Both layouts will f
 
 ## Layout Overview
 The layout can be used directly on an ISO-keyboard. The finger position is symmetrical for the left and right hand. The right hand is as usual and the left hand like follows: 'qhk' is the pinky-row, '.aä' the row of the ring finger and so on. See also the finger columns on a columnar staggered keyboard below. For both keyboard types the handpositions stay exactly the same and are symmetrical for the left and right hand. 
+### ISO-keyboard Layout
 
 <img width="1403" height="387" alt="image" src="https://github.com/user-attachments/assets/ec17cf11-e15b-48e9-be66-81fdd286eabe" />
 
----
+### Split Columnar Staggered Layout
 This is how the layout looks on a a columnar staggered split keyboard:
 
 <img width="1404" height="434" alt="image" src="https://github.com/user-attachments/assets/a148b572-8337-438b-bdc0-ebea814e4f50" />
@@ -33,7 +34,7 @@ This is how the layout looks on a a columnar staggered split keyboard:
 
 The screenshots with keyboard statistics below are taken from the analyzer from Cyanophage and give a first impression how the layout fares. The EnDeu layout scores very well in regards to statistics. But note that the analyzers do not fully describe the typing experience. For example the suggested layout could slightly be tweaked to get a tiny bit better SFBs (same-finger-bigrams) by swapping m-w, but I deliberately have chosen the current position, because I find it slightly easier to type that way. You can swap those two characters if you prefer. Try typing 'will', 'much', 'poland' and 'wc' with both variants and choose according to your preference or if you prefer the somewhat more frequent 'm' or the slightly less frequent 'w' on the stronger middle finger.
 
-Also note that the keyboard analyzer sometimes do not allow to describe the layout in question fully. In the case of anymak:END most analyzers do not take into account that the shift and symbol layer keys are easy to reach. If they would, the numeric values for anymak:END would be even better. Also the usage of one-shot layer keys is relevant practical advantage -- typically not shown by analyzers. On the oter side the extra effort to access the umlauts on the symbol layer is also not considered. That would possibly slightly increase the effort metrics.
+Also note that the keyboard analyzer sometimes do not allow to describe the layout in question fully. In the case of anymak:END most analyzers do not take into account that the shift and symbol layer keys are easy to reach. If they would, the numeric values for anymak:END would be even better. Also the usage of one-shot layer keys is relevant practical advantage -- typically not shown by analyzers. On the other side the extra effort to access the umlauts on the symbol layer is also not considered. That would possibly slightly increase the effort metrics.
 
 **Comparison to Graphite — a modern layout alternative**
 
