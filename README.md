@@ -68,6 +68,7 @@ https://cyanophage.github.io/playground.html?layout=qkouyvdclfjhaei%2Cgtrns%3B%3
 ### EnDeu - German
 https://cyanophage.github.io/playground.html?layout=q.ouyvdclf%C3%9Fhaei%2Cgtrnsjk%C3%A4%C3%B6%C3%BCxbpmwz%27%5E&mode=ergo&lan=german&thumb=l
 <img width="1494" height="1152" alt="image" src="https://github.com/user-attachments/assets/f8ca55b4-c846-47ed-bbba-a9ab38da8955" />
+This is a minor variation of the layout shown above -- swapping the ß and J position. Neither is better, but it is your choice which you prefer.
 
 ### Graphite - German
 Diacritics are added here for comparison to evaluate German. The original Graphite does not offer diacritics, but the statistics are not changed that much by the umlauts -- regardless if the umlaut placement has been optimized (not the case here). Still for real-world typing the umlauts are relevant to place wisely, because regardless of the low frequency you will get quickly annoyed when they are in hard to reach places and do not fit into the typing flow. 
