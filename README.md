@@ -22,12 +22,12 @@ If you prefer anymak:END or EnDeu is a matter of preference. Both layouts will f
 The layout can be used directly on an ISO-keyboard. The finger position is symmetrical for the left and right hand. The right hand is as usual and the left hand like follows: 'qhk' is the pinky-row, '.aä' the row of the ring finger and so on. See also the finger columns on a columnar staggered keyboard below. For both keyboard types the handpositions stay exactly the same and are symmetrical for the left and right hand. 
 ### ISO-keyboard Layout
 
-<img width="1403" height="387" alt="image" src="https://github.com/user-attachments/assets/ec17cf11-e15b-48e9-be66-81fdd286eabe" />
+<img width="1403" height="387" alt="image" src="https://github.com/user-attachments/assets/13a60867-f2a0-445e-9e83-371ab98a0da0" />
 
 ### Split Columnar Staggered Layout
-This is how the layout looks on a a columnar staggered split keyboard:
+This is how the layout looks on a a columnar staggered split keyboard. Here shown with J and ß being swapped. This is a minor variation of the layout shown above. Neither version is better, but it is your choice which you prefer. 
 
-<img width="1404" height="434" alt="image" src="https://github.com/user-attachments/assets/a148b572-8337-438b-bdc0-ebea814e4f50" />
+<img width="1430" height="391" alt="image" src="https://github.com/user-attachments/assets/64434a40-cb5c-48f5-aa0f-dc0a169c5d3e" />
 
 
 ## Statistics
@@ -68,7 +68,6 @@ https://cyanophage.github.io/playground.html?layout=qkouyvdclfjhaei%2Cgtrns%3B%3
 ### EnDeu - German
 https://cyanophage.github.io/playground.html?layout=q.ouyvdclf%C3%9Fhaei%2Cgtrnsjk%C3%A4%C3%B6%C3%BCxbpmwz%27%5E&mode=ergo&lan=german&thumb=l
 <img width="1494" height="1152" alt="image" src="https://github.com/user-attachments/assets/f8ca55b4-c846-47ed-bbba-a9ab38da8955" />
-This is a minor variation of the layout shown above -- swapping the ß and J position. Neither is better, but it is your choice which you prefer.
 
 ### Graphite - German
 Diacritics are added here for comparison to evaluate German. The original Graphite does not offer diacritics, but the statistics are not changed that much by the umlauts -- regardless if the umlaut placement has been optimized (not the case here). Still for real-world typing the umlauts are relevant to place wisely, because regardless of the low frequency you will get quickly annoyed when they are in hard to reach places and do not fit into the typing flow. 
