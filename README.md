@@ -1,108 +1,104 @@
+
 # EnDeu
-A highly ergonomic English/ German keyboard layout for standard ISO keyboards or 3x6 columnar staggered keyboards. It has really good analyzer stats, but gives an even better typing feel :-) Unlike many modern layouts optimized primarily for English, EnDeu maintains consistent ergonomic performance across both English and German. It is also a really good option to be adapted for other European languages such as Dutch, French and Spanish and probably even more.
 
-This layout is an alternative to [anymak:END](https://github.com/rpnfan/Anymak). It is based on the same proven principles. The difference to anymak:END are as follows:
+EnDeu is a highly ergonomic English/German keyboard layout for standard ISO keyboards or 3×6 columnar staggered keyboards. It scores well in layout analyzer statistics, but the typing feel is even better in practice. Unlike many modern layouts optimized primarily for English, EnDeu maintains consistent ergonomic performance across both English and German. It is also a strong basis for adaptation to other European languages such as Dutch, French and Spanish.
 
-The default shift key position from a standard keyboard is used and not changed.This allows to use more keys and has two benefits and two disadvantages
+This layout is an alternative to [anymak:END](https://github.com/rpnfan/Anymak). It is based on the same proven principles, with the following differences:
+
+The default shift key position from a standard keyboard is kept unchanged. This allows more keys to be used for characters, which brings both advantages and disadvantages compared to anymak:END.
 
 **Advantages over anymak:END**
 
-* Due that change some analyzer statistics numbers, such as same-finger-bigrams have been improved.
-* The layout includes all German diacritics on the base layer, instead of requiring to access them on a separate layer. That is the much more important difference I think.
+* Keeping shift in its default position improves certain analyzer statistics, such as same-finger-bigrams.
+* The layout includes all German diacritics on the base layer, rather than requiring access via a separate layer. This is arguably the more significant difference in everyday use.
 
 **Disadvantages over anymak:END**
 
-* The shift key is left in the default position, which is not easy to reach, but requires an unergonomic stretch of the pinky — or moving the floating hand. In contrast anymak:END does not use the ISO-shift key positions at all and avoids this uncomfortable position. You can however use one-shot shift with EnDeu as well. Note that EnDeu requires an ISO-keyboard and cannot be adapted in a meaningful way to an ANSI keyboard. But if you mainly use ANSI-keyboards you likely will have English as your main language and anymak:END is the suggested layout in that case.
-* anymak:END has a one-shot layer key available on the left and right hand. For EnDeu the right layer key is used for the character 'ß', so it does not allow to place the one-shot layer key there any longer. Swiss people could recover that position although :-). Another option when using an ISO keyboard is to put the less frequent used character 'ß' on the B-key position from QWERTY or the #-key position in QWERTZ, freeing up the key again to be used as a one-shot layer switch.
+* The shift key remains in its standard position, which requires an unergonomic stretch of the pinky — or lifting the hand entirely. In contrast, anymak:END avoids the ISO shift key positions altogether. One-shot shift can be used with EnDeu to mitigate this. Note that EnDeu requires an ISO keyboard and cannot be meaningfully adapted to an ANSI keyboard. If you primarily use ANSI keyboards, English is likely your main language, and anymak:END is the suggested layout in that case.
+* anymak:END places a one-shot layer key on both the left and right hand. In EnDeu, the right-hand layer key position is used for "ß", which removes that option. One workaround: place the less frequently used "ß" on the B-key (QWERTY) or #-key (QWERTZ) position, freeing that key for a one-shot layer switch. (Swiss users can recover that position directly, since "ß" is not used in Swiss German.)
 
-If you prefer anymak:END or EnDeu is a matter of preference. Both layouts will feel great, with somewhat different strong sides and weaker sides. But mostly the layouts are very similar (see details below). The real world difference is the placement of the Shift keys and the umlauts. EnDeu can (and should) be perfectly complemented by realizing extra symbol and navigation and shortcut layers. See the [Spacemak](https://github.com/rpnfan/Spacemak) ideas.
-
+Whether you prefer anymak:END or EnDeu comes down to personal preference. Both layouts feel great, with somewhat different strengths and trade-offs — though overall they are very similar. The most practical differences are the placement of the shift keys and the umlauts. EnDeu can and should be complemented with extra symbol, navigation and shortcut layers. See the [Spacemak](https://github.com/rpnfan/Spacemak) ideas for that.
 
 ## Layout Overview
-The layout can be used directly on an ISO-keyboard. The finger position is symmetrical for the left and right hand. The right hand is as usual and the left hand like follows: 'qhk' is the pinky-row, '.aä' the row of the ring finger and so on. See also the finger columns on a columnar staggered keyboard below. For both keyboard types the handpositions stay exactly the same and are symmetrical for the left and right hand. 
-### ISO-keyboard Layout
+
+The layout can be used directly on an ISO keyboard. The finger positions are symmetrical for left and right hand. On the left hand: "qhk" is the pinky column, ".aä" the ring finger column, and so on. See also the finger columns on a columnar staggered keyboard below. For both keyboard types the hand positions are identical and symmetrical.
+
+### ISO Keyboard Layout
 
 <img width="1403" height="387" alt="image" src="https://github.com/user-attachments/assets/13a60867-f2a0-445e-9e83-371ab98a0da0" />
 
 ### Split Columnar Staggered Layout
-This is how the layout looks on a a columnar staggered split keyboard. Here shown with J and ß being swapped. This is a minor variation of the layout shown above. Neither version is better, but it is your choice which you prefer. 
+
+This is how the layout looks on a columnar staggered split keyboard, shown here with J and ß swapped. This is a minor variation — neither version is objectively better, so choose whichever you prefer.
 
 <img width="1430" height="391" alt="image" src="https://github.com/user-attachments/assets/64434a40-cb5c-48f5-aa0f-dc0a169c5d3e" />
 
-
 ## Statistics
 
-The screenshots with keyboard statistics below are taken from the analyzer from Cyanophage and give a first impression how the layout fares. The EnDeu layout scores very well in regards to statistics. But note that the analyzers do not fully describe the typing experience. For example the suggested layout could slightly be tweaked to get a tiny bit better SFBs (same-finger-bigrams) by swapping m-w, but I deliberately have chosen the current position, because I find it slightly easier to type that way. You can swap those two characters if you prefer. Try typing 'will', 'much', 'poland' and 'wc' with both variants and choose according to your preference or if you prefer the somewhat more frequent 'm' or the slightly less frequent 'w' on the stronger middle finger.
+The screenshots below are taken from the Cyanophage analyzer and give a first impression of how the layout performs. Note upfront that no analyzer fully captures real-world typing feel. For example, the layout could be tweaked to slightly reduce same-finger-bigrams (SFBs) by swapping M and W — but the current positions were chosen deliberately for comfort. Try typing "will", "much", "poland" and "wc" with both variants and decide based on your preference, or based on whether you prefer the more frequent "m" or the slightly less frequent "w" on the stronger middle finger.
 
-Also note that the keyboard analyzer sometimes do not allow to describe the layout in question fully. In the case of anymak:END most analyzers do not take into account that the shift and symbol layer keys are easy to reach. If they would, the numeric values for anymak:END would be even better. Also the usage of one-shot layer keys is relevant practical advantage -- typically not shown by analyzers. On the other side the extra effort to access the umlauts on the symbol layer is also not considered. That would possibly slightly increase the effort metrics.
+Also worth noting: [analyzers sometimes cannot fully describe a layout](https://rpnfan.github.io/keyboard-heaven/deep-dive/keyboard-layout-analyzers/). For anymak:END, most analyzers do not account for the easy reach of the shift and symbol layer keys — if they did, the numbers would be even better. The practical benefit of one-shot layer keys is similarly invisible to analyzers. On the other hand, the extra effort to access umlauts on a symbol layer is also not factored in, which would slightly increase effort metrics for that layout.
 
-**Comparison to Graphite — a modern layout alternative**
+**Comparison with Graphite and Gallium**
 
-To give you an idea why it can be interesting to consider EnDeu, let's compare it against Graphite and Gallium. These two are modern layouts which are increasingly used — for good reasons, because they are very balanced layouts resulting in a typing experience many people enjoy. The EnDeu layout also tries to achieve a great balance between all the parameters a keyboard layout is optimized for. In comparison to Graphite it puts less focus on same-finger-bigrams, but still trying to keep those pretty low. The remaing same-finger-bigrams on EnDeu are mostly on the strong index and middle finger — from the top-row back to the home-row. That makes the same-finger-bigrams still relative comfortable to type. On keyboards with u-shaped keycaps such as [MCC](https://kbd.news/MCC-keycap-profile-962.html) for Choc switches, you can even "rake" the finger from one row to the other. 
+Graphite and Gallium are modern layouts with a growing following — and for good reason, as they are well-balanced and widely enjoyed. EnDeu shares that goal of balance across all layout parameters. Compared to Graphite, EnDeu places slightly less emphasis on minimizing same-finger-bigrams, while still keeping them low. The remaining SFBs on EnDeu fall mostly on the strong index and middle fingers, moving from the top row back to the home row — which makes them relatively comfortable. On keyboards with U-shaped keycaps such as [MCC](https://kbd.news/MCC-keycap-profile-962.html) for Choc switches, the finger can even rake smoothly between rows.
 
-Another difference is that high frequency keys are put on the stronger index and middle finger as far as possible. That is one reason that the common letter 'e' is on the middle finger instead the weaker ring finger it is on Graphite/ Gallium. Both Graphite/ Gallium and EnDeu largely avoid awkward finger motions, such as scissors, re-directs, SFBs and large stretches. The performance in regards to those bad keyboard layout characteristics are roughly in the same range for the three layouts.
+Another difference is that high-frequency keys are placed on the stronger index and middle fingers where possible. This is one reason "e" sits on the middle finger rather than the weaker ring finger position it occupies in Graphite and Gallium. All three layouts largely avoid awkward movements such as scissors, redirects, SFBs and large stretches, and perform similarly in those respects.
 
-One of the most important characterists for a layout to not cause discomfort are a high amount of hand alternations — not forcing you to type long sequences just with one hand. Again, the three layouts are very close in that regard. 
+Hand alternation — avoiding long same-hand sequences — is one of the most important characteristics of a comfortable layout. Again, all three layouts perform closely here.
 
-But EnDeu has two advantages over many other layouts. For a high-alternation layout it has still a relatively high amount of inward-rolls. This is something you can likely feel and enjoy during your typing. For English Graphite has 21.7 % inward rolls. That is comparable to many other modern layouts not using a thumb-character key. EnDeu in contrast has 27.7 % inward-rolls. That is on the high side for that class of layouts for a standard keyboard.
+Where EnDeu stands out is in two areas. First, for a high-alternation layout it achieves a relatively high rate of inward rolls: 27.7% for English, compared to 21.7% for Graphite. This is on the high side for standard keyboard layouts and is something you are likely to feel and appreciate while typing. Second, EnDeu is genuinely optimized for multiple languages simultaneously, offering roughly equivalent comfort across several European languages — not just English. Note that despite the multilingual approach. EnDeu is a great option for English only use as well.
 
-The second unique and rare characteristic for a keyboard layout is that EnDeu is not only optimized for English, but has about the same performance — means comfortable typing feel — for several European languages.
+**Try it and trust your fingers**
 
-**Try out and trust your feelings**
+Layout analyzers are valuable for development and initial comparison, but after narrowing down to two or three candidates, the best approach is to try them with a handful of real words. Using a [website to try out layouts](https://www.reddit.com/r/KeyboardLayouts/comments/1r1eegt/try_out_keyboard_layouts_a_systematic_approach/) is highly recommended and will help you find the layout that best fits your use case, hand size and keyboard type.
 
-Using keyboard layout analyzers to aid in the development or first judgement of a layout is very useful and highly recommended. But be aware that after you have chosen two or three candidates it is best to try out the layouts with a few handfull words. The analyzers will not give you the full picture alone. Using a [website to try out different layouts](https://keyboard-layout-try-out.pages.dev/) is very valuable and will help you to find the layout which fits best to your use case, hand size and keyboard type.
-
-### EnDeu - English
+### EnDeu — English
 https://cyanophage.github.io/playground.html?layout=q.ouyvdclf%5Chaei%2Cgtrnsjk%2F-%3Bxbpmwz%27%5E&mode=ergo&lan=english&thumb=l
 <img width="1516" height="1160" alt="image" src="https://github.com/user-attachments/assets/8b206ea2-980c-43b4-a1f8-1b9ea1b88baa" />
 
-### Graphite - English
+### Graphite — English
 https://cyanophage.github.io/playground.html?layout=bldwz%27fouj%3Bnrtsgyhaei%2Cqxmcvkp.-%2F%5C%5E&mode=ergo&lan=english&thumb=l
 <img width="1813" height="1383" alt="image" src="https://github.com/user-attachments/assets/4d84476d-6ef2-40b9-8c37-d3a7267e9643" />
 
-### anymak:END - English
+### anymak:END — English
 https://cyanophage.github.io/playground.html?layout=qkouyvdclfjhaei%2Cgtrns%3B%3Dz%27.xbpmw%2F%5C-&mode=ergo&lan=english&thumb=l
 <img width="1813" height="1383" alt="image" src="https://github.com/user-attachments/assets/35b9a9dc-a741-4226-a35c-7d02c9e78f00" />
 
-
-### EnDeu - German
+### EnDeu — German
 https://cyanophage.github.io/playground.html?layout=q.ouyvdclf%C3%9Fhaei%2Cgtrnsjk%C3%A4%C3%B6%C3%BCxbpmwz%27%5E&mode=ergo&lan=german&thumb=l
 <img width="1494" height="1152" alt="image" src="https://github.com/user-attachments/assets/f8ca55b4-c846-47ed-bbba-a9ab38da8955" />
 
-### Graphite - German
-Diacritics are added here for comparison to evaluate German. The original Graphite does not offer diacritics, but the statistics are not changed that much by the umlauts -- regardless if the umlaut placement has been optimized (not the case here). Still for real-world typing the umlauts are relevant to place wisely, because regardless of the low frequency you will get quickly annoyed when they are in hard to reach places and do not fit into the typing flow. 
+### Graphite — German
+Diacritics have been added here for comparison. The original Graphite layout does not include diacritics, and the statistics do not shift dramatically when they are added — regardless of how optimally they are placed. That said, in real-world typing the umlaut positions matter: even low-frequency characters become a source of frustration when they sit in awkward spots and break the typing flow.
+
 https://cyanophage.github.io/playground.html?layout=bldwz%27fouj%C3%B6nrtsgyhaei%2Cqxmcvkp.%C3%BC%C3%A4%C3%9F%5E&mode=ergo&lan=german&thumb=l
 <img width="1813" height="1383" alt="image" src="https://github.com/user-attachments/assets/4caa7eec-85a6-4bb2-aadf-e00a74fbd6a0" />
 
-### anymak:END - German
-Note that Cyanophage's analyzer does not allow to exactly display how anymak:END is setup (with one-shot shift and layers keys and the diacritics on the extra layer). The below screenshot is therefore just an approximation, where the umlauts are placed on the base-layer. Because of the low frequency of the umlauts the statistic values will not differ too much from the real layout, but they would be a little bit better if the analyzer would take into account the real umlaut key positions.
+### anymak:END — German
+Note that the Cyanophage analyzer cannot exactly represent how anymak:END is set up, since it does not account for one-shot shift, layer keys, or diacritics on an extra layer. The screenshot below is therefore an approximation, with umlauts placed on the base layer. Because umlauts are relatively infrequent, the statistics are close to the real layout — though they would be marginally better if the analyzer reflected the actual key positions.
+
 https://cyanophage.github.io/playground.html?layout=qkouyvdclfjhaei%2Cgtrns%C3%9F%C3%B6z%27.xbpmw%C3%A4%3D%C3%BC&mode=ergo&lan=german&thumb=l
 <img width="1813" height="1383" alt="image" src="https://github.com/user-attachments/assets/a8b5706a-3500-4448-b17a-2f44612bb031" />
 
+## Statistics for other European languages
 
-## Statistics for different European languages
-As a bonus here the stats for some other languages, where you can see that a slightly adopted EnDeu-layout works also great for Dutch, French or Spanish for example. The layouts below are not ready-made for these languages. Diacritics need to be added as needed.
+As a bonus, here are stats for a few other languages, showing that a slightly adapted EnDeu works well for Dutch, French and Spanish too. The layouts below are drafts — diacritics need to be added and fine-tuned for each language.
 
-### EnNed - Dutch
+### EnNed — Dutch
 https://cyanophage.github.io/playground.html?layout=q%3Bouyvdclf%5Chaei%2Cgtrns%2Fkj%27.xbpmwz-%5Eback&mode=ergo&lan=dutch&thumb=l
 <img width="1503" height="1150" alt="image" src="https://github.com/user-attachments/assets/901088be-21f5-4d78-815e-f7d963ec25d3" />
 
-Note that the relative high number of same-finger-bigrams are on the strong index and middle finger (UI and OE). I finde these are actually comfortable to type and should not keep you from trying the layout. :-)
+The relatively high same-finger-bigram count here falls on the strong index and middle fingers (UI and OE), which in practice are comfortable to type and should not discourage you from trying the layout.
 
-For Dutch and English this [Gallium variant](https://www.reddit.com/r/KeyboardLayouts/comments/1oazi45/comment/nzq8ho1/?context=1) is also very interesting. That and the above layout have somewhat different strengths, but both will work good for English and Dutch. The Gallium variant possibly a bit better for Dutch, but still good for English. And EnNed vice versa a bit better for English, but still good for Dutch. 
+For Dutch and English combined, [this Gallium variant](https://www.reddit.com/r/KeyboardLayouts/comments/1oazi45/comment/nzq8ho1/?context=1) is also worth considering. It and EnNed have somewhat different strengths — the Gallium variant may have a slight edge for Dutch, while EnNed may perform a little better for English. Both are solid choices for the combination.
 
-### EnFranç - French
+### EnFranç — French
 https://cyanophage.github.io/playground.html?layout=qxouyvdclfjhaei.gtsrn%C3%A0k%C3%A7%C3%A8%C3%A9%2Cbpmwz%27%5E&mode=ergo&lan=french&thumb=l
 <img width="1524" height="1178" alt="image" src="https://github.com/user-attachments/assets/9f91e970-fa05-476a-a7cf-d8f90c60d1c0" />
-If you want a French optimized keyboard layout as the main language and English as a second language, take a look at [Optimot](https://optimot.fr/). Another option can be the layout shown here. It is really good for English and French at the same time. This layout shown here has to be seen as a draft version. Because I do not use French-English myself as the main language combination I have not done the fine-tuning / testing. But after checking and possibly optimizing the diacritics and minor changes I guess this layout could be an excellent option and likely surpasing the already good Optimot layout -- especially for English. In case you would like to create a final version of that layout and would need some help or input you can comment here.
 
-### EnEspan - Spanish
+If French is your primary language with English as a second, [Optimot](https://optimot.fr/) is worth a look. The layout shown here is an alternative that performs well for both languages simultaneously. It should be considered a draft — since French/English is not my primary language combination, it has not been fully fine-tuned or tested. With some optimization of the diacritics and minor adjustments, it could be an excellent option, potentially surpassing Optimot especially for English. If you would like to develop a final version and want input or collaboration, feel free to open an issue on GitHub.
+
+### EnEspan — Spanish
 https://cyanophage.github.io/playground.html?layout=q.ouyvdclfjhaei%2Cgtrns%2Fk-%5C%C3%B1xbpmwz%27%5E&mode=ergo&lan=spanish&thumb=l
 <img width="1813" height="1383" alt="image" src="https://github.com/user-attachments/assets/6a034304-2c05-4868-aa8e-e3d3f55ef8e1" />
-
-
-
-
-
-
-
